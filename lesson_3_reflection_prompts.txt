@@ -24,7 +24,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    One way is to email back and forth, but version control can get quickly out of hand with multiple team members. Another option is to use a common server directory (or google drive, dropbox, etc) to store the files. But then there is a risk of two or more people saving, modifying, and then uploading the changes; which, would completly overwrite the changes of one person. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
