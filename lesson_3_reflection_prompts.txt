@@ -29,4 +29,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    It would make sense to use a branch if the addition is some experimental feature that you are unsure of or not really ready to share. 
